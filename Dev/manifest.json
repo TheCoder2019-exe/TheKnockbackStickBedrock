@@ -1,0 +1,25 @@
+{
+  "header" : {
+    "version" : [
+      0,
+      0,
+      1
+    ],
+    "name" : "§bThe Knockback Stick",
+    "description" : "Function pack to spawn 3 different types of Knockback Sticks.§a\n\nItsCoderr_#3005",
+    "uuid" : "6ca29cda-66c3-4690-89fd-d9c701029708"
+  },
+  "modules" : [
+    {
+      "version" : [
+        0,
+        0,
+        1
+      ],
+      "type" : "data",
+      "description" : "Function pack to spawn 3 different types of Knockback Sticks.§a\n\nItsCoderr_#3005",
+      "uuid" : "6ca29cda-66c3-4690-89fd-d9c701029709"
+    }
+  ],
+  "format_version" : 1
+}
